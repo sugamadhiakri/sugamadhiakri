@@ -8,4 +8,4 @@ Just completed my college. Exploring technologies and trying to set long term ca
 ### Next steps...
 - Cloud Development and deployment (AWS)
 - Side Project
-- Leetcode Grinde
+- Leetcode Grind
