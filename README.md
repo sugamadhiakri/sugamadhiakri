@@ -3,9 +3,9 @@
 Just completed my college. Exploring technologies and trying to set long term career goals. 
 
 ### I am currently working on...
-.NET Core, Angular, Golang
+- Understand and Implement different software arhcitectures in golang
+- Preparing for AWS Cloud Practictioner Certificate
 
 ### Next steps...
-- Cloud Development and deployment (AWS)
-- Side Project
-- Leetcode Grind
+- Advanced cloud native systems.
+- Get into a Graduate Program.
