@@ -1,3 +1,3 @@
 # Sugam Adhikari
 
-i love to code 
+I will love it and I think I deserve it. (me, on being an open source contributor)
